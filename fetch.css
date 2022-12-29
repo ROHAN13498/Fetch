@@ -1,0 +1,9 @@
+table{
+    width: 30%;
+}
+table,thead,td{
+    border: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
